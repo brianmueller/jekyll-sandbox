@@ -1,0 +1,11 @@
+# basic options
+title: Jekyll Sandbox
+author: brianmueller
+email: brianscottmueller@gmail.com
+description: My Jekyll Sandox
+twitter_username: bmuellerhstat
+github_username:  brianmueller
+
+# Build settings
+markdown: kramdown
+theme: minima
