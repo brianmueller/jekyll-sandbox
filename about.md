@@ -9,6 +9,7 @@ Hope you love it!
 Reasons:
 - its great.
 - its a test.
+- you can edit in the browser.
 
 ## Other thoughts
 
